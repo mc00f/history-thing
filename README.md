@@ -10,5 +10,5 @@ Overall, NotebookLM is a powerful tool for anyone involved in research-intensive
 --
 ## My Grade
 
-![Static Badge](https://img.shields.io/badge/grade-TBD-blue)
-![Static Badge](https://img.shields.io/badge/presentaion_status-TODAY-red)
+![Static Badge](https://img.shields.io/badge/grade-he_says_A-green)
+![Static Badge](https://img.shields.io/badge/presentaion_status-2.8.25-gray)
